@@ -1,0 +1,6 @@
+@btap_api_orm_HostAddress = http://localhost:5121
+
+GET {{btap_api_orm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
